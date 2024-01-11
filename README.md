@@ -1,14 +1,15 @@
+"Santorini" is a captivating board game which challenges players to strategically construct buildings on a 5x5 grid. 
+With the goal of being the first to reach the third level, players employ clever movement and building tactics, enhanced by the unique powers of god cards. 
+
 ## Starting a Game
 
 To start the game, first navigate to the back-end folder and enter on the command line:
 
 ### `mvn exec:exec`
 
-Once the program starts running successfully, navigate to the back-end folder and enter on the command line:
+Once the program starts running successfully, navigate to the front-end folder and enter on the command line:
 
 ### `npm start`
-
-The local host link doesn't work so try the network link instead.
 
 First, choose the version of the game, classic or with god cards. For God card version, both players select the God cards and then the game starts.
 The instructions start with initializing the workers. Players can initialize their workers by simply clicking on the squares.
